@@ -1,11 +1,5 @@
 streamlit
-torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 transformers
-datasets
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
+torch
 plotly
 accelerate
